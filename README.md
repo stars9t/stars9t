@@ -1,10 +1,8 @@
 # Welcome to my world, programmer!
 
-💻  I am currently working on a hidden project. Information coming soon...
+💻  At the moment I have 2 small open projects. The first is a telegram bot with which you can get basic information on the characters from the LoL game. The second is a logging library for C
 
-🌱  Now I am studying the C programming language. I study how the computer and other programming languages are tripled.
-
-👯 So far, I have not collaborated with other people, but if you would like to offer to help you with the project, you can contact me by mail wagner.alexander638@gmail.com
+🌱  At the moment I am studying C and C ++, as well as the internal structure of computer systems
 
 About me:
 - I think programming is an interesting occupation, not a profession where you can get a lot of money.
